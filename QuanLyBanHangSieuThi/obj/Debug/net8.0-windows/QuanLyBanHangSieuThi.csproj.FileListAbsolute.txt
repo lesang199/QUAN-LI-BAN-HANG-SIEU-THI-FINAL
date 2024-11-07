@@ -1,0 +1,101 @@
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.exe
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.deps.json
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.runtimeconfig.json
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.GeneratedMSBuildEditorConfig.editorconfig
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfoInputs.cache
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfo.cs
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.CoreCompileInputs.cache
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\refint\QuanLyBanHangSieuThi.dll
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.genruntimeconfig.cache
+R:\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\ref\QuanLyBanHangSieuThi.dll
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.exe
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.deps.json
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.runtimeconfig.json
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormMain.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfoInputs.cache
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfo.cs
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\refint\QuanLyBanHangSieuThi.dll
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.genruntimeconfig.cache
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\ref\QuanLyBanHangSieuThi.dll
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormCustomer.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormManager.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormProduct.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormSeller.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormStore.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormOrder.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormBeverage.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormFood.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormHouseHoldItem.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormOrderList.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormInvoice.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormInvoiceList.resources
+C:\Users\asus\Downloads\Lin Nguyen 2024-10-02 [02.17.57] 276.T4\QuanLyBanHangSieuThi\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormAbout.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.exe
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.deps.json
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.runtimeconfig.json
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormAbout.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormBeverage.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormCustomer.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormFood.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormHouseHoldItem.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormInvoice.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormInvoiceList.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormMain.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormManager.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormOrder.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormOrderList.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormProduct.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormSeller.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormStore.resources
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.GenerateResource.cache
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.GeneratedMSBuildEditorConfig.editorconfig
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfoInputs.cache
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfo.cs
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.CoreCompileInputs.cache
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\refint\QuanLyBanHangSieuThi.dll
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.genruntimeconfig.cache
+R:\QuanLyBanHangSieuThi_sr_update2\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\ref\QuanLyBanHangSieuThi.dll
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.exe
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.deps.json
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.runtimeconfig.json
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\bin\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormAbout.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormBeverage.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormCustomer.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormFood.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormHouseHoldItem.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormInvoice.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormInvoiceList.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormMain.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormManager.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormOrder.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormOrderList.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormProduct.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormSeller.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.FormStore.resources
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.GenerateResource.cache
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfoInputs.cache
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.AssemblyInfo.cs
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.csproj.CoreCompileInputs.cache
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.dll
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\refint\QuanLyBanHangSieuThi.dll
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.pdb
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\QuanLyBanHangSieuThi.genruntimeconfig.cache
+C:\Users\Acer\Downloads\QuanLyBanHangSieuThiFinal\QuanLyBanHangSieuThi\obj\Debug\net8.0-windows\ref\QuanLyBanHangSieuThi.dll

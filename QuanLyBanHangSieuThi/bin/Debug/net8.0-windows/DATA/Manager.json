@@ -1,0 +1,16 @@
+[
+  {
+    "Code": "QL001",
+    "Name": "Hoàng",
+    "Gender": "Nam",
+    "Phone": "0979777999",
+    "Address": "Hà Nội"
+  },
+  {
+    "Code": "QL002",
+    "Name": "Tuấn",
+    "Gender": "Nam",
+    "Phone": "0793743234",
+    "Address": "Hà Nội"
+  }
+]

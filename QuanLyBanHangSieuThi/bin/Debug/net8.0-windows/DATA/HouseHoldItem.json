@@ -1,0 +1,18 @@
+[
+  {
+    "Brand": "IKIA",
+    "Code": "GD001",
+    "Name": "Bàn IKEA",
+    "Price": 2000000,
+    "Qty": 100,
+    "Info": "Đồ gia dụng. Thương hiệu: IKIA"
+  },
+  {
+    "Brand": "Sony",
+    "Code": "GD002",
+    "Name": "Sony Ericson",
+    "Price": 1500000,
+    "Qty": 100,
+    "Info": "Đồ gia dụng. Thương hiệu: Sony"
+  }
+]

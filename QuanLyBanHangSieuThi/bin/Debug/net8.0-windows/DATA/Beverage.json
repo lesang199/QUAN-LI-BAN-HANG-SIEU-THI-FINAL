@@ -1,0 +1,26 @@
+[
+  {
+    "IsAlcoholic": true,
+    "Code": "DO001",
+    "Name": "Bia Tiger",
+    "Price": 25000,
+    "Qty": 99,
+    "Info": "Đồ uống. Có chứa cồn: True"
+  },
+  {
+    "IsAlcoholic": false,
+    "Code": "DO002",
+    "Name": "Nước ngọt Pepsi",
+    "Price": 15000,
+    "Qty": 100,
+    "Info": "Đồ uống. Có chứa cồn: False"
+  },
+  {
+    "IsAlcoholic": false,
+    "Code": "DO003",
+    "Name": "Nước suối đóng chai",
+    "Price": 10000,
+    "Qty": 100,
+    "Info": "Đồ uống. Có chứa cồn: False"
+  }
+]
